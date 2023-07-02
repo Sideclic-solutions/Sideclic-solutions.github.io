@@ -1,0 +1,72 @@
+.starategy-title {
+    font-size: 46px;
+    color: #1D1D1B;
+    margin-bottom: 30px;
+    font-family: 'bold';
+    z-index: 1;
+    position: relative;
+    padding-top: 50px;
+}
+
+.starategy-discription {
+    font-size: 17px;
+    color: #1D1D1B;
+    font-family: 'regular';
+
+}
+
+.rdv-btn {
+    background: #E94651 !important;
+    border: #E94651 !important;
+    border-radius: 50px !important;
+    padding: 8px 25px !important;
+    margin-top: 30px;
+    color: white !important;
+}
+
+.rdv-btn:hover {
+    opacity: 0.9;
+}
+
+.marketing-session {
+    font-size: 16px;
+    color: #1D1D1B;
+    font-family: "bold";
+}
+
+.marker {
+    background-image: url('../../assets/images/strategyLines.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media (max-width: 992px) {
+    .starategy-title {
+        font-size: 35px;
+        text-align: center;
+    }
+
+    .starategy-discription {
+        text-align: center;
+    }
+
+    .rdv-ss {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+
+    .line1 {
+        margin: 15px auto;
+        display: block;
+    }
+
+    .marketing-session {
+        justify-content: center;
+        margin-top: 25px;
+    }
+
+    .prdv {
+        justify-content: center;
+    }
+}

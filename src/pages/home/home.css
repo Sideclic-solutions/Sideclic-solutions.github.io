@@ -1,0 +1,503 @@
+.intro {
+    padding: 100px 0 0;
+}
+
+.intro h1 {
+    color: #2B7A78;
+    font-size: 46px;
+    font-family: 'bold';
+}
+
+.intro p {
+    color: #1D1D1B;
+    font-size: 23px;
+    font-family: 'medium';
+}
+
+.intro button {
+    background: #E94651 !important;
+    border: #E94651 !important;
+    border-radius: 50px !important;
+    padding: 8px 25px !important;
+    font-family: 'medium';
+    opacity: 0.9;
+}
+
+.intro button:hover {
+    opacity: 1;
+}
+
+.session-btn-container {
+    padding: 100px 0 0 0;
+}
+
+.why-section {
+    padding: 400px 0;
+}
+
+.why-section-bg {
+    background-image: url('../../assets/images/hero-bg.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+.why-section h3 {
+    color: #FFFFFF;
+    margin-bottom: 35px;
+    font-size: 37px;
+    font-family: 'bold';
+}
+
+
+
+.why-section p {
+    color: #1D1D1B;
+    font-family: 'medium';
+    font-size: 25px;
+}
+
+.white-marker {
+    background-image: url('../../assets/images/white-space.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    display: inline-flex;
+    justify-content: center;
+    padding: 12px;
+}
+
+
+.big-arr {
+    left: calc(0% - 300px);
+    top: 40%;
+}
+
+.steps-container {
+    max-width: 100%;
+    padding-bottom: 150px;
+}
+
+.steps-container p {
+    font-size: 24px;
+    font-family: 'medium';
+    color: #FFFFFF;
+}
+
+
+.stepone {
+    background-image: url('../../assets/images/steponebg.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 80px 0 50px 25px;
+    align-items: center;
+
+}
+
+.steptwo {
+    background-image: url('../../assets/images/steptwo.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    padding: 50px 80px 50px 0px;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+
+.dilmm {
+    font-size: 42px;
+    margin-bottom: 10px;
+    font-family: 'bold';
+    color: #1D1D1B;
+}
+
+
+.dilmm-p {
+    font-size: 30px;
+    color: #47AEA9;
+    font-family: 'medium';
+}
+
+
+.dilmm-container {
+    margin-bottom: 50px;
+
+}
+
+
+.choice-container h3 {
+    font-size: 65px;
+    color: #1D1D1B;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+
+.choicearr {
+    left: calc(0% - 150px);
+}
+
+
+.choice-container h4 {
+    font-size: 37px;
+    color: #1D1D1B;
+    font-family: 'bold';
+}
+
+
+.choice-desc {
+    margin-top: 350px;
+    margin-bottom: 100px;
+
+}
+
+
+.entreprneur-container .entrp {
+    color: #FFFFFF !important;
+    text-decoration: none !important;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'bold';
+
+}
+
+
+
+.choice-section-bg {
+    background-image: url('../../assets/images/hero-bg.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.choice-container {
+    padding: 360px 0;
+}
+
+
+.green-marker {
+    color: #47AEA9;
+    text-decoration: underline;
+    text-decoration-color: #47AEA9;
+    font-family: 'medium';
+    cursor: pointer;
+}
+
+
+.prestation-container {
+    padding: 100px 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.prestation-container p {
+    color: #1D1D1B;
+    font-family: 'regular';
+    font-size: 27px;
+}
+
+
+.rdvv-btn {
+    background: #ffff !important;
+    border: 1px solid #E94651 !important;
+    border-radius: 50px !important;
+    padding: 8px 25px !important;
+    margin-top: 30px;
+    color: #E94651 !important;
+    font-family: 'medium';
+    opacity: 0.9;
+}
+
+.rdv-btn {
+    opacity: 1;
+}
+
+.figuration-container {
+    padding: 50px 0;
+}
+
+
+.figuration-container h3 {
+    font-size: 40px;
+    margin-bottom: 45px;
+    font-family: 'medium';
+}
+
+.figuration-container p {
+    color: #1D1D1B;
+    font-weight: 400;
+    font-size: 27px;
+}
+
+
+
+.svr-btn {
+    background: #E94651 !important;
+    border: #E94651 !important;
+    border-radius: 50px !important;
+    padding: 8px 25px !important;
+    margin-top: 30px;
+}
+
+
+.audit-container,
+.sevices-li-container {
+    padding: 150px 0;
+}
+
+.audit-container li {
+    font-size: 25px;
+    margin-bottom: 15px;
+    color: #1D1D1B;
+    list-style: none;
+    font-family: 'medium';
+
+}
+
+.audit-container li::before {
+    content: "•";
+    color: rgb(255, 255, 255);
+    margin-right: 15px;
+}
+
+.audit-container ul {
+    margin-bottom: 80px;
+}
+
+
+.audit-bg {
+    background-image: url('../../assets/images/audit.svg');
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+.audit-container {
+    padding: 400px 0px;
+}
+
+.rch3 {
+    color: #ffff;
+    font-size: 34px;
+    margin-bottom: 35px;
+    font-family: 'regular';
+}
+
+.red-markerr {
+    color: #E94651;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.opt {
+    color: #1D1D1B;
+    font-family: 'regular';
+    font-size: 27px;
+}
+
+.red-marker {
+    color: #E94651;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.services-c {
+    font-size: 20px;
+    font-family: 'bold';
+}
+
+.marker-g {
+    background-image: url('../../assets/images/m.svg');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.left-it {
+    justify-content: flex-end;
+}
+
+.number {
+    text-align: center;
+    margin-right: 18px;
+}
+
+.toend {
+    justify-content: flex-end;
+}
+
+.sevices-li {
+    font-size: 25px;
+    margin-bottom: 15px;
+    color: #1D1D1B;
+    list-style: none;
+    font-family: 'regular';
+}
+
+@media (max-width: 992px) {
+    .intro h1 {
+        text-align: center;
+        font-size: 35px;
+    }
+
+    .intro p {
+        text-align: center;
+    }
+
+    .why-section {
+        padding: 150px 0;
+    }
+
+    .session-btn-container {
+        padding: 50px 0 0 0;
+        justify-content: center !important;
+    }
+
+    .why-section h3 {
+        color: #1D1D1B;
+        margin-bottom: 35px;
+        font-size: 25px;
+        font-family: 'bold';
+        text-align: center;
+    }
+
+    .why-section p {
+        color: #1D1D1B;
+        font-family: 'medium';
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .why-section-bg {
+        background-size: cover;
+    }
+
+    .center-it {
+        justify-content: center !important;
+    }
+
+    .big-arr {
+        left: 0;
+        top: 100%;
+    }
+
+    .steps-container {
+        padding: 70px 0px;
+        max-width: 100%;
+    }
+
+    .stepone,
+    .steptwo {
+
+        background: #ffffff;
+        padding: 80px 0 0px 0px;
+        flex-direction: column;
+    }
+
+    .steps-container p {
+        font-size: 20px;
+        font-family: 'medium';
+        color: #000000;
+        text-align: center;
+        padding: 0 19px 19px;
+    }
+
+    .number {
+        text-align: center;
+        margin-right: 0 !important;
+        margin-bottom: 10px;
+    }
+
+    .dilmm {
+        font-size: 35px;
+        margin-bottom: 10px;
+        font-family: 'bold';
+        color: #1D1D1B;
+        text-align: center;
+    }
+
+    .dilmm-p {
+        font-size: 30px;
+        color: #47AEA9;
+        font-family: 'medium';
+        text-align: center;
+    }
+
+    .choice-container {
+        padding: 180px 0;
+    }
+
+    .toend {
+        justify-content: center;
+    }
+
+    .choice-container h4 {
+        font-size: 27px;
+        color: #1D1D1B;
+        font-family: 'bold';
+        text-align: center;
+    }
+
+    .choicearr {
+        left: 0;
+    }
+
+    .prestation-container p {
+        color: #1D1D1B;
+        font-family: 'regular';
+        font-size: 20px;
+        text-align: center;
+        padding: 15px;
+    }
+
+    .figuration-container h3 {
+        font-size: 37px;
+        margin-bottom: 35px;
+        text-align: center;
+    }
+
+    .figuration-container p {
+        color: #1D1D1B;
+        font-weight: 400;
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .audit-bg {
+        background-size: cover;
+    }
+
+    .audit-container {
+        padding: 200px 0px;
+    }
+
+    .audit-container ul {
+        margin-bottom: 50px;
+        padding: 0;
+    }
+
+    .audit-container li {
+        font-size: 20px;
+
+    }
+
+    .opt {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .rch3 {
+
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .services-c {
+        text-align: center;
+        font-size: 20px;
+
+    }
+}

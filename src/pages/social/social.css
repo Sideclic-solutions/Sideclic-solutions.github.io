@@ -1,0 +1,141 @@
+.social-container {
+    padding: 50px 0;
+}
+
+.social-media-title {
+    font-size: 46px;
+    color: #1D1D1B;
+    margin-bottom: 30px;
+    font-family: 'bold';
+}
+.social-media-p {
+    font-size: 18px;
+    font-family: 'regular';
+    color: #1D1D1B;
+}
+
+.social-1 {
+    margin-bottom: 80px;
+}
+
+.social-2 p {
+    font-size: 18px;
+    font-family: 'regular';
+    color: #1D1D1B;
+}
+
+.strategy-title {
+    color: #2B7A78;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.strategy-p {
+    color: #1D1D1B;
+    font-size: 17px;
+    font-family: 'medium';
+    text-align: center;
+
+}
+
+.strategies-3 {
+    background-image: url('../../assets/images/bgsocial.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 300px 0;
+}
+
+.sm-managment {
+    margin-bottom: 100px;
+}
+
+.sm-managment h3 {
+    font-size: 30px;
+    color: #2B7A78;
+    font-weight: 'medium';
+    margin-bottom: 25px;
+}
+
+.sm-managment-li li {
+    color: #1D1D1B;
+    font-size: 20px;
+    font-family: 'regular';
+    margin-bottom: 15px;
+    display: flex;
+
+}
+
+.sm-managment-li {
+    list-style: none;
+    padding: 0;
+}
+
+
+.sm-managment-li img {
+    width: 15px;
+}
+
+.advice {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.footer-arr {
+
+    position: absolute;
+    right: 30%;
+    top: 90%;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.rdv-btn {
+    background: #E94651 !important;
+    border: #E94651 !important;
+    border-radius: 50px !important;
+    padding: 8px 25px !important;
+    margin-top: 30px;
+    display: block;
+}
+
+
+.bottom-bg {
+    min-width: 100%;
+    padding: 150px 0;
+    background-image: url('../../assets/images/btm-bg.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom right;
+    margin-top: 50px;
+
+}
+
+
+@media (max-width: 992px) { 
+    .strategy-p {
+       margin-bottom: 80px;
+    }
+
+    .social-media-title {
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .social-container {
+        padding: 80px 0  0px;
+    }
+
+    .socialbg {
+        margin:  0 auto;
+        margin-bottom: 80px;
+    }
+    .social-2 p {
+        text-align: left;
+    }
+ }

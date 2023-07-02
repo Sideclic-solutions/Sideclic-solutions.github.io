@@ -1,0 +1,43 @@
+
+.textare-send{
+    background: white!important;
+    border: 2px solid #E94651!important;
+    border-radius: 50px!important;
+    color: #E94651!important;
+    padding: 5px 18px!important;
+}
+
+.clic-label {
+    font-family: 'regular';
+    font-size: 18px;
+    border-top: 0!important;
+    border-right:  0!important;
+    border-left:  0!important;
+    border-radius: 0!important;
+}
+
+
+.clic-label:focus {
+    border-bottom: 2px solid #2B7A78!important;
+    box-shadow: none!important;
+}
+
+.txtare:focus {
+    border: 2px solid #2B7A78!important;
+    box-shadow: none!important;
+}
+
+
+.ft-title {
+    font-size: 35px;
+    color: #1D1D1B;
+    margin-bottom: 30px;
+    font-family: 'bold';
+    z-index: 1;
+    position: relative;
+    padding-top: 50px;
+}
+
+.footer-btn-b {
+    margin-bottom: 280px;
+}

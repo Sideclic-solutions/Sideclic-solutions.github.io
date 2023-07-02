@@ -1,0 +1,32 @@
+.logo {
+    width: 160px;
+}
+
+.contact-button {
+    background: #1E292E!important;
+    border-radius: 15px!important;
+    padding: 8px 20px!important;
+    border: #1E292E!important;
+    font-weight: 700!important;
+
+}
+
+.sideclic-nav .clic-nav-link {
+    color: #1D1D1B!important;
+    margin: 0 10px!important;
+    font-family: 'regular';
+}
+
+.navbox {
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+}
+
+.dropdown-title  .nav-link {
+    color: #1D1D1B!important;
+    margin: 0 10px!important;
+    font-family: 'regular';
+}
+
+.dropdown-title .dropdown-item:active {
+background-color: #47aea9!important;
+}
