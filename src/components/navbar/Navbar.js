@@ -28,15 +28,15 @@ const SideNavbar = () => {
                             <NavDropdown title="Nos services" id="basic-nav-dropdown" className='dropdown-title'>
 
                                 <Link to={'/entrepreneur'} className='dropdown-item'>
-                                    Site Vitrine
+                                    Site vitrine
                                 </Link>
 
                                 <Link to={'/social'} className='dropdown-item'>
-                                    Social Media Management
+                                    Social media management
                                 </Link>
 
                                 <Link to={'/strategy'} className='dropdown-item'>
-                                    Stratégie Marketing Digital
+                                    Stratégie marketing digital
                                 </Link>
 
 

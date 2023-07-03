@@ -1,19 +1,43 @@
 @font-face {
     font-family: "regular";
-    src: local("Montserrat-Regular"), url("./Montserrat-Regular.otf") format("otf");
+    src: local("Montserrat-Regular"), url("./Montserrat-Regular.otf") format("otf"),
+    local("Montserrat-Regular"), url("./Montserrat-Regular.eot") format("eot"),
+    local("Montserrat-Regular"), url("./Montserrat-Regular.ttf") format("ttf"),
+    local("Montserrat-Regular"), url("./Montserrat-Regular.otf") format("otf"),
+    local("Montserrat-Regular"), url("./Montserrat-Regular.woff") format("woff");
+    font-style: normal;
+    font-weight: 400;
 }
 
 @font-face {
     font-family: "bold";
-    src: local("Montserrat-Bold"), url("./Montserrat-Bold.otf") format("otf");
+    src: local("Montserrat-Bold"), url("./Montserrat-Bold.otf") format("otf"),
+    local("Montserrat-Bold"), url("./Montserrat-Bold.eot") format("eot"),
+    local("Montserrat-Bold"), url("./Montserrat-Bold.ttf") format("ttf"),
+    local("Montserrat-Bold"), url("./Montserrat-Bold.otf") format("otf"),
+    local("Montserrat-Bold"), url("./Montserrat-Bold.woff") format("woff");
+    font-style: normal;
+    font-weight: 700;
 }
 
 @font-face {
     font-family: "medium";
-    src: local("Montserrat-Medium"), url("./Montserrat-Medium.otf") format("otf");
+    src: local("Montserrat-Medium"), url("./Montserrat-Medium.otf") format("otf"),
+    local("Montserrat-Medium"), url("./Montserrat-Medium.eot") format("eot"),
+    local("Montserrat-Medium"), url("./Montserrat-Medium.ttf") format("ttf"),
+    local("Montserrat-Medium"), url("./Montserrat-Medium.otf") format("otf"),
+    local("Montserrat-Medium"), url("./Montserrat-Bold.woff") format("woff");
+    font-weight: 500;
+    font-style: normal;
 }
 
 @font-face {
     font-family: "black";
-    src: local("Montserrat-Black"), url("./Montserrat-Black.otf") format("otf");
+    src: local("Montserrat-Black"), url("./Montserrat-Black.otf") format("otf"),
+    local("Montserrat-Black"), url("./Montserrat-Black.eot") format("eot"),
+    local("Montserrat-Black"), url("./Montserrat-Black.ttf") format("ttf"),
+    local("Montserrat-Black"), url("./Montserrat-Black.otf") format("otf"),
+    local("Montserrat-Black"), url("./Montserrat-Bold.woff") format("woff");
+    font-style: normal;
+    font-weight: 900;
 }
