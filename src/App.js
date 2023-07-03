@@ -15,7 +15,7 @@ const App = () => {
     <>
       <SideNavbar />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="" element={<Home />} />
         <Route path="/mission" element={<Mission />} />
         <Route path="/social" element={<Social />} />
         <Route path="/contact" element={<Contact />} />
