@@ -1,7 +1,7 @@
 {
   "name": "sideclic",
   "version": "0.1.0",
-  "homepage": "https://sideclic-solutions.github.io",
+  "homepage": "https://www.sideclic.fr",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
