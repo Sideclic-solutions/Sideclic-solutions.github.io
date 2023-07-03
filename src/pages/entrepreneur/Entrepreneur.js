@@ -44,7 +44,7 @@ const Entrepreneur = () => {
                             <img className='position-absolute rightarr' src={rightarr} alt="" />
 
                             <Button className='rightarrbtn position-absolute' onClick={() => window.open('https://calendly.com/sideclic/session_gratuite_de_conseil', '_blank', 'rel=noopener noreferrer')}>
-                                Créer mon site vitrine CTA
+                                Créer mon site vitrine 
                             </Button>
                         </div>
 
