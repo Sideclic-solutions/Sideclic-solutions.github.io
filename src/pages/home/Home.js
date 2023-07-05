@@ -142,11 +142,11 @@ const Home = () => {
                     Nos experts en social media <br></br>
                     management vous accompagnent <br></br>
                     pour tirer le meilleur parti de votre <br></br>
-                    <span className='green-marker'> <Link style={{ textDecoration: 'none',color:'#47aea9' }} to={'/social'}>présence sur les réseaux sociaux.</Link>  </span>
+                    <span className='green-marker'> <Link style={{ textDecoration: 'none',color:'#47aea9' }} to={'/social_media_management'}>présence sur les réseaux sociaux.</Link>  </span>
                 </p>
                 <div className='d-flex   toend'>
                     <Button className='svr-btn'
-                    onClick={()=> navigate('/social')}
+                    onClick={()=> navigate('/social_media_management')}
                     >
                  En savoir plus
                         </Button>

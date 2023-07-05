@@ -26,7 +26,7 @@ import ngliarr from './images/ngli-arr.svg';
 import ok from './images/ok.svg';
 import oki from './images/ok-k.svg';
 
-import mls from './pdf/Mentions légales sideclic.docx';
+import mls from './pdf/Mentions légales sideclic.pdf';
 import pc from './pdf/Politique de confidentialité.pdf';
 
 export {

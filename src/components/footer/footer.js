@@ -2,6 +2,7 @@
 import Container from 'react-bootstrap/Container';
 
 
+
 import { logo, fb, insta, linkedin, mls, pc } from '../../assets';
 
 // custom styles
@@ -14,7 +15,9 @@ const Footer = () => {
     return (
 
         <div className='footer-bg'>
+
             <Container className='main-footer-cn'>
+
                 <section className="footers pt-5 pb-3">
                     <div className=" pt-5">
                         <div className="row">
@@ -38,23 +41,26 @@ const Footer = () => {
 
                                 </h5>
                                 <div className="footers-info foot-desc mt-3">
-                                    <Link  className='mb-2' style={{ textDecoration: 'none', color: '#1D1D1B' ,display:'block'}} to={'/entrepreneur'}>  Création de site web pour <br></br> 
-                                    auto-entrepreneur <br></br></Link>
-                                    <Link  className='mb-2' style={{ textDecoration: 'none', color: '#1D1D1B' ,display:'block'}} to={'/social'}>   Stratégie social media pour <br></br> 
-                                    auto-entrepreneur <br></br></Link>
+                                    <Link className='mb-2' style={{ textDecoration: 'none', color: '#1D1D1B', display: 'block' }} to={'/site_vitrine'}>  Création de site web pour <br></br>
+                                        auto-entrepreneur <br></br></Link>
+                                    <Link className='mb-2' style={{ textDecoration: 'none', color: '#1D1D1B', display: 'block' }} to={'/social_media_management'}>   Stratégie social media pour <br></br>
+                                        auto-entrepreneur <br></br></Link>
 
-                                    <Link  className='mb-3' style={{ textDecoration: 'none', color: '#1D1D1B' ,display:'block'}} to={'/strategy'}>        Stratégie marketing  <br></br> pour auto-entrepreneur</Link>
+                                    <Link className='mb-3' style={{ textDecoration: 'none', color: '#1D1D1B', display: 'block' }} to={'/strategie_marketing_digital'}>        Stratégie marketing  <br></br> pour auto-entrepreneur</Link>
 
                                 </div>
                                 <h5 className='foot-head'>Qui sommes-nous ?
                                 </h5>
                                 <ul className="list-unstyled">
                                     <li className='mb-2'>
-                                        <Link style={{ textDecoration: 'none', color: '#1D1D1B' }} to={'/mission'}>    Notre mission</Link>
-                                    
-                                        
+                                        <Link style={{ textDecoration: 'none', color: '#1D1D1B', fontFamily: 'regular', fontSize: 15 }}
+
+
+                                            to={'/mission'}>    Notre mission</Link>
+
+
                                     </li>
-                                    <li>Contact@sideclic.fr</li>
+                                    <li style={{ textDecoration: 'none', color: '#1D1D1B', fontFamily: 'regular', fontSize: 15 }}>Contact@sideclic.fr</li>
                                 </ul>
                             </div>
                             <div className="col-xs-12 col-sm-6 col-md-4 footers-three">
@@ -78,18 +84,20 @@ const Footer = () => {
                                 </div>
                                 <ul className="list-unstyled">
                                     <li className='mb-2'>
-                                        
-                                    <a style={{ textDecoration: 'none', color: '#1D1D1B' }} href={mls} target="_blank"
-                    rel="noreferrer">
-           Mentions légales
-                </a> <br></br>
+
+                                        <a style={{ textDecoration: 'none', color: '#1D1D1B', fontFamily: 'regular', fontSize: 15 }} href={mls} target="_blank"
+                                            rel="noreferrer">
+                                            Mentions légales
+                                        </a> <br></br>
                                     </li>
                                     <li>
 
-                                    <a style={{ textDecoration: 'none', color: '#1D1D1B' }} href={pc} target="_blank"
-                    rel="noreferrer">
-       Politique de confidentialité
-                </a>
+                                        <a style={{ textDecoration: 'none', color: '#1D1D1B', fontFamily: 'regular', fontSize: 15 }} href={pc} target="_blank"
+                                            rel="noreferrer">
+                                            Politique de confidentialité
+                                        </a>
+
+
                                     </li>
                                 </ul>
                             </div>

@@ -22,7 +22,7 @@ const SocialMedia = () => {
                 <title>Social Media Management pour auto-entrepreneur – Sideclic  </title>
                 <meta name='description' content='un site web de qualité, facilement administrable qui reflète votre image et votre expertise, le tout à 
                 un tarif adapté à votre budget. ' />
-                <link rel='canonical' href='/social' />
+                <link rel='canonical' href='/social_media_management' />
             </Helmet>
             <div className='position-relative social-1'>
                 <img className='position-absolute' style={{ maxWidth: "80%" }} src={socialCloud} alt="" />

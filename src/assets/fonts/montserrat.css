@@ -26,7 +26,7 @@
     local("Montserrat-Medium"), url("./Montserrat-Medium.eot") format("eot"),
     local("Montserrat-Medium"), url("./Montserrat-Medium.ttf") format("ttf"),
     local("Montserrat-Medium"), url("./Montserrat-Medium.otf") format("otf"),
-    local("Montserrat-Medium"), url("./Montserrat-Bold.woff") format("woff");
+    local("Montserrat-Medium"), url("./Montserrat-Medium.woff") format("woff");
     font-weight: 500;
     font-style: normal;
 }
@@ -37,7 +37,7 @@
     local("Montserrat-Black"), url("./Montserrat-Black.eot") format("eot"),
     local("Montserrat-Black"), url("./Montserrat-Black.ttf") format("ttf"),
     local("Montserrat-Black"), url("./Montserrat-Black.otf") format("otf"),
-    local("Montserrat-Black"), url("./Montserrat-Bold.woff") format("woff");
+    local("Montserrat-Black"), url("./Montserrat-Black.woff") format("woff");
     font-style: normal;
     font-weight: 900;
 }

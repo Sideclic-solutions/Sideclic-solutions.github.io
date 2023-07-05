@@ -21,7 +21,7 @@ const Entrepreneur = () => {
             <Helmet>
                 <title>Sideclic – Site vitrine pour auto-entrepreneur </title>
                 <meta name='description' content=' un site web de qualité, facilement administrable qui reflète votre image et votre expertise, le tout à un tarif adapté à votre budget. ' />
-                <link rel='canonical' href='/entrepreneur' />
+                <link rel='canonical' href='/site_vitrine' />
             </Helmet>
             <div className='entr-hero-section'>
                 <Container >
