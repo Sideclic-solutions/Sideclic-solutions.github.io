@@ -41,9 +41,9 @@ const App = () => {
       <CookieConsent
           location="bottom"
           buttonText="J'ai compris."
-          style={{ background: '#f5f5f5', color: '#646467' }}
+          style={{ background: '#f5f5f5', color: '#646467', fontSize: '14px' }}
           buttonStyle={{
-            background: '#ffe04a',
+            background: 'black',
             color: 'white',
             fontSize: '13px',
             borderRadius: '3px',
