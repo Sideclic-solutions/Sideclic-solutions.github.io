@@ -41,7 +41,8 @@ const Mission = () => {
                         Mais même les superhéros ont besoin d’un acolyte pour les assister dans leurs missions. <br></br>
                         Chez Sideclic, nous mettons à votre service non pas un acolyte, mais toute une équipe d’experts dont le seul <br></br>objectif est de vous accompagner pour mener à bien la mise en place de votre projet web ou/et digital. <br></br>
                         Nous estimons qu’il ne devrait pas y avoir de discrimination basée sur les budgets des clients. L’accès à une  <br></br>présence en ligne doit être universel et sa qualité ne devrait pas en pâtir pour des raisons financières.<br></br>
-                        <br></br>
+                        <br></br>        
+                        Nous ne prétendons pas avoir la meilleure offre du marché.<br></br>
                         Par contre, nous pouvons garantir que nous ferons tout notre possible pour vous fournir un service sur-mesure, aligné avec vos objectifs commerciaux. <br></br>Nous nous engageons à tout mettre en œuvre pour vous satisfaire et vous accompagner de la meilleure des manières.<br></br>
                         C’est ce souci de transparence que vous retrouverez durant toutes les étapes de notre collaboration. <br></br>Cette relation de confiance que nous souhaitons établir nous tient à cœur et représente l’assise sur laquelle nous édifions notre réputation. <br></br>
                         Nos offres sont étudiées pour répondre précisément à votre besoin et aux spécificités de votre secteur d’activité.<br></br>
