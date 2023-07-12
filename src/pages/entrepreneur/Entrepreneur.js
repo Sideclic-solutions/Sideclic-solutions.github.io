@@ -390,8 +390,7 @@ const Entrepreneur = () => {
                 <div className='container servicesPen-bg-container'>
                     <div>
                         <h3 className='servicesPen-bg-title'>
-                            Nos services sont imaginés, pensés et conçus pour <br> vous nos tarifs le sont aussi.</br>
-
+                       Nos services sont imaginés, pensés et conçus pour vous. <br></br> Nos tarifs le sont aussi.
                         </h3>
                         <ul className='ul-servicesPen'>
                             <li> <img src={oki} alt="" />    Facilité de paiement </li>
