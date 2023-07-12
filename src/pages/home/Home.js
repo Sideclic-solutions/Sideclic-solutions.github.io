@@ -30,7 +30,7 @@ const Home = () => {
                 <div>
                     <h1>
                         L’agence web des auto-entrepreneurs.
-                    </h1>
+                    </h2>
                     <p>Des services web imaginés, pensés et conçus pour les auto-entrepreneurs. </p>
                 </div>
                 <div className='d-flex  toend session-btn-container'>
@@ -40,7 +40,7 @@ const Home = () => {
             <div className='why-section-bg'>
                 <Container className='why-section '>
                     <div>
-                        <h3>Pourquoi créer une agence web <br></br> dédiée  aux auto-entrepreneurs ?</h3>
+                        <h2>Pourquoi créer une agence web <br></br> dédiée  aux auto-entrepreneurs ?</h2>
                         <p>
                             De la persévérance, une bonne <br></br> dose de patience  et beaucoup de <br></br>  dévouement:  <br></br>
                             Ces qualités inhérentes aux <br></br> auto-entrepreneurs sont <br></br>
@@ -136,8 +136,8 @@ const Home = () => {
                 </div>
             </Container>
             <Container className='figuration-container'>
-                <h3>Arrêtez de faire de la figuration sur les <br></br> réseaux sociaux !
-                </h3>
+                <h2>Arrêtez de faire de la figuration sur les <br></br> réseaux sociaux !
+                </h2>
                 <p>
                     Nos experts en social media <br></br>
                     management vous accompagnent <br></br>
