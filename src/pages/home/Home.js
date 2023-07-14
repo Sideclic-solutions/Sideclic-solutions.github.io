@@ -31,7 +31,7 @@ const Home = () => {
                     <h1>
                         L’agence web des auto-entrepreneurs.
                     </h1>
-                   <h1> Des services web imaginés, pensés et conçus pour les auto-entrepreneurs. </h1>
+                   <b> Des services web imaginés, pensés et conçus pour les auto-entrepreneurs. </b>
                 </div>
                 <div className='d-flex  toend session-btn-container'>
                     <Button onClick={()=> window.open('https://calendly.com/sideclic/session_gratuite_de_conseil','_blank', 'rel=noopener noreferrer')}>Session gratuite de conseil</Button>
