@@ -31,7 +31,7 @@ const Home = () => {
                     <h1>
                         L’agence web des auto-entrepreneurs.
                     </h1>
-                    <h2>Des services web imaginés, pensés et conçus pour les auto-entrepreneurs. </h2>
+                   Des services web imaginés, pensés et conçus pour les auto-entrepreneurs.
                 </div>
                 <div className='d-flex  toend session-btn-container'>
                     <Button onClick={()=> window.open('https://calendly.com/sideclic/session_gratuite_de_conseil','_blank', 'rel=noopener noreferrer')}>Session gratuite de conseil</Button>
@@ -40,7 +40,7 @@ const Home = () => {
             <div className='why-section-bg'>
                 <Container className='why-section '>
                     <div>
-                        <h2>Pourquoi créer une agence web <br></br> dédiée  aux auto-entrepreneurs ?</h2>
+                        <h3>Pourquoi créer une agence web <br></br> dédiée  aux auto-entrepreneurs ?</h3>
                         <p>
                             De la persévérance, une bonne <br></br> dose de patience  et beaucoup de <br></br>  dévouement:  <br></br>
                             Ces qualités inhérentes aux <br></br> auto-entrepreneurs sont <br></br>
