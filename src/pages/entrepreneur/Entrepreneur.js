@@ -163,7 +163,7 @@ const Entrepreneur = () => {
                     <div className='row'>
                         <div className='col-sm-12 col-md-6'>
                             <h4 className='yellow-bg'>
-                                Fidéliser vos clients
+                                Fidélisez vos clients
                             </h4>
                             <div className='levier-boxx'>
                                 <p>
