@@ -61,6 +61,7 @@ const Footer = () => {
 
                                     </li>
                                     <li style={{ textDecoration: 'none', color: '#1D1D1B', fontFamily: 'regular', fontSize: 15 }}>Contact@sideclic.fr</li>
+                                    <li style={{ textDecoration: 'none', color: '#1D1D1B', fontFamily: 'regular', fontSize: 15 }}>+33 9 79 99 80 37</li> 
                                 </ul>
                             </div>
                             <div className="col-xs-12 col-sm-6 col-md-4 footers-three">
